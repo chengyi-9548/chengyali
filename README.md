@@ -6,7 +6,7 @@
 str = "hello , 信息素养实践课程！"
 print(str)
 ```
-
+`信息素养`
 # 一、信息素养实践课程基本框架
 
 ![基本框架](C:\Users\Administrator\Desktop\图片1.png)
